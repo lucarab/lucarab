@@ -20,8 +20,8 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 - Security: CrowdSec, OPNsense, GeoIP firewall rules, Asterisk
 
 <a href="https://github.com/lucarab">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab" />
 </a>
 <a href="https://github.com/lucarab">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarab&layout=compact&langs_count=8&card_width=320" />
+  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarab&layout=compact&langs_count=8&card_width=320" />
 </a>
