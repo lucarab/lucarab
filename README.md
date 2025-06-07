@@ -17,7 +17,7 @@ I'm a dual student of Business Informatics at DHBW Heidenheim and currently work
 - Backend: Laravel, MySQL, Fortify, REST APIs
 - DevOps: Docker, Proxmox, Nginx, WireGuard, GitHub Actions
 - Embedded: ESP32, Arduino IDE, ILI9488, PN532, LVGL 9.2
-- Security: CrowdSec, OPNsense, GeoIP firewall rules, Asterisk
+- Security: CrowdSec, OPNsense, GeoIP firewall rules
 
 ## 📈 GitHub Stats
 
