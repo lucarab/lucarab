@@ -19,6 +19,8 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 - Embedded: ESP32, Arduino IDE, ILI9488, PN532, LVGL 9.2
 - Security: CrowdSec, OPNsense, GeoIP firewall rules, Asterisk
 
+## 📈 GitHub Stats
+
 <a href="https://github.com/lucarab">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab" />
 </a>
