@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Luca — @lucarab
 
-<!--
-**lucarab/lucarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dual student of Business Informatics at DHBW and currently working at @ZEISS Group. Besides my academic roles, I'm deeply passionate about tech, automation, and digital solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🧠 AI Projects — from natural language processing to computer vision (e.g., tornado/funnel cloud detection with OpenCV & CNNs)
+- 🕹️ Embedded Systems — ESP32, LVGL, TFT_eSPI, touch displays, NFC & real-time UI logic
+- 🖥️ Full Stack Development — Vue.js + Laravel API (Fortify), local/offline-first apps, status pages, and TOTP/2FA integration
+- ☁️ Server Infrastructure — Proxmox, OPNsense firewall setups, CrowdSec integration, WireGuard & GeoIP whitelisting
+- 🎮 Game Dev & Mods — FiveM (GTA V), GMod DarkRP, Lua scripting, realistic police interactions & custom banking/washing systems
+
+---
+
+## 🧰 Tech Stack & Tools
+
+- Languages: JavaScript, PHP, Python, C#, Lua, Bash
+- Frontend: Vue.js, TailwindCSS, DaisyUI
+- Backend: Laravel, MySQL, Fortify, REST APIs
+- DevOps: Docker, Proxmox, Nginx, WireGuard, GitHub Actions
+- Embedded: ESP32, Arduino IDE, ILI9488, PN532, LVGL 9.2
+- Security: CrowdSec, OPNsense, GeoIP firewall rules, Asterisk
+
+---
+
+<a href="https://github.com/lucarab">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab" />
+</a>
+<a href="https://github.com/lucarab">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarab&layout=compact&langs_count=8&card_width=320" />
+</a>
