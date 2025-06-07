@@ -21,9 +21,11 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 
 ## 📈 GitHub Stats
 
-<a href="https://github.com/lucarab" style="margin-right: 40px;">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab&theme=github_dark" />
-</a>
-<a href="https://github.com/lucarab">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarab&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
+<div style="display: flex; gap: 40px; align-items: center;">
+  <a href="https://github.com/lucarab">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab&theme=github_dark" />
+  </a>
+  <a href="https://github.com/lucarab">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucarab&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  </a>
+</div>
