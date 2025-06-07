@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luca — @lucarab
 
-I'm a dual student of Business Informatics at DHBW Heidenheim and currently working at [@ZEISS](https://github.com/ZEISS). Besides my academic roles, I'm deeply passionate about tech, automation, and digital solutions.
+I'm a dual student of Business Informatics at DHBW Heidenheim and currently working at [@ZEISS](https://github.com/ZEISS).<br>Besides my academic role, I'm deeply passionate about tech, automation, and digital solutions.
 
 ## 🚀 What I Do
 
