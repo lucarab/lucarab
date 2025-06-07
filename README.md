@@ -4,7 +4,7 @@ I'm a dual student of Business Informatics at DHBW Heidenheim and currently work
 
 ## 🚀 What I Do
 
-- 🧠 AI Projects — from natural language processing to computer vision (e.g., tornado/funnel cloud detection with OpenCV & CNNs)
+- 🧠 AI Projects — from natural language processing to computer vision (e.g., tornado/funnel cloud detection with OpenCV & CNNs using public webcams in Germany)
 - 🕹️ Embedded Systems — ESP32, LVGL, TFT_eSPI, touch displays, NFC & real-time UI logic
 - 🖥️ Full Stack Development — Vue.js + Laravel API (Fortify), local/offline-first apps, status pages, and TOTP/2FA integration
 - ☁️ Server Infrastructure — Proxmox, OPNsense firewall setups, CrowdSec integration, WireGuard & GeoIP whitelisting
