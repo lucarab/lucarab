@@ -2,8 +2,6 @@
 
 I'm a dual student of Business Informatics at DHBW and currently working at @ZEISS Group. Besides my academic roles, I'm deeply passionate about tech, automation, and digital solutions.
 
----
-
 ## 🚀 What I Do
 
 - 🧠 AI Projects — from natural language processing to computer vision (e.g., tornado/funnel cloud detection with OpenCV & CNNs)
@@ -11,8 +9,6 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 - 🖥️ Full Stack Development — Vue.js + Laravel API (Fortify), local/offline-first apps, status pages, and TOTP/2FA integration
 - ☁️ Server Infrastructure — Proxmox, OPNsense firewall setups, CrowdSec integration, WireGuard & GeoIP whitelisting
 - 🎮 Game Dev & Mods — FiveM (GTA V), GMod DarkRP, Lua scripting, realistic police interactions & custom banking/washing systems
-
----
 
 ## 🧰 Tech Stack & Tools
 
@@ -22,8 +18,6 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 - DevOps: Docker, Proxmox, Nginx, WireGuard, GitHub Actions
 - Embedded: ESP32, Arduino IDE, ILI9488, PN532, LVGL 9.2
 - Security: CrowdSec, OPNsense, GeoIP firewall rules, Asterisk
-
----
 
 <a href="https://github.com/lucarab">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=lucarab" />
