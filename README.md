@@ -8,7 +8,7 @@ I'm a dual student of Business Informatics at DHBW and currently working at @ZEI
 - 🕹️ Embedded Systems — ESP32, LVGL, TFT_eSPI, touch displays, NFC & real-time UI logic
 - 🖥️ Full Stack Development — Vue.js + Laravel API (Fortify), local/offline-first apps, status pages, and TOTP/2FA integration
 - ☁️ Server Infrastructure — Proxmox, OPNsense firewall setups, CrowdSec integration, WireGuard & GeoIP whitelisting
-- 🎮 Game Dev & Mods — FiveM (GTA V), GMod DarkRP, Lua scripting, realistic police interactions & custom banking/washing systems
+- 🎮 Game Dev & Mods — FiveM (GTA V), GMod DarkRP and Lua scripting
 
 ## 🧰 Tech Stack & Tools
 
