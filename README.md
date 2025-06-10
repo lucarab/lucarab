@@ -2,17 +2,9 @@
 
 I'm a dual student of Business Informatics at DHBW Heidenheim and currently working at [@ZEISS](https://github.com/ZEISS).<br>Besides my academic role, I'm deeply passionate about tech, automation, and digital solutions.
 
-<div align="left">
-  <a href="https://discord.com/users/409352263471988766" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:me@lucarab.de">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=mailboxdotorg&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/luca-rab/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+[![Mail](https://img.shields.io/static/v1?message=Mail&logo=mailboxdotorg&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:me@lucarab.de)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://linkedin.com/in/luca.rab) 
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/409352263471988766) 
 
 ## 🚀 What I Do
 
